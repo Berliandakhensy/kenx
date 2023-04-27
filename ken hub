@@ -1,7 +1,7 @@
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
  
-local MainUI = UILibrary.Load("KEN X V3.1🔥")
+local MainUI = UILibrary.Load("KEN X V3.1")
 local FirstPage = MainUI.AddPage("Home")
 local FirstLabel = FirstPage.AddLabel("Welcome " .. game.Players.LocalPlayer.DisplayName)
 local FirstLabel = FirstPage.AddLabel("-- Date : shutdown --")
@@ -9,7 +9,7 @@ local FirstLabel = FirstPage.AddLabel("support yaniss78#4181")
 local FirstLabel = FirstPage.AddLabel("| add -script -new version |")
 local FirstLabel = FirstPage.AddLabel("| NOTE: To the Showcase mobile drag ")
 local FirstLabel = FirstPage.AddLabel("Ken x/hub top #5")
-local FirstLabel = FirstPage.AddLabel("-- KEN X v3.1🔥 Released! --")
+local FirstLabel = FirstPage.AddLabel("-- KEN X v3.1 Released! --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)  
