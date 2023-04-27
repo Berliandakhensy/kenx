@@ -1,7 +1,7 @@
 
-oadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
  
-local MainUI = UILibrary.Load("KEN X V3.0")
+local MainUI = UILibrary.Load("KEN X V3.2")
 local FirstPage = MainUI.AddPage("Home")
 local FirstLabel = FirstPage.AddLabel("Welcome " .. game.Players.LocalPlayer.DisplayName)
 local FirstLabel = FirstPage.AddLabel("-- KEN HUB ( NEW ) --")
@@ -17,7 +17,7 @@ local FirstPage = MainUI.AddPage("Scripts")
 local FirstLabel = FirstPage.AddLabel("Scripts")
 local FirstLabel = FirstPage.AddLabel("-- NOTE: i just try my script")
 local FirstLabel = FirstPage.AddLabel("-- NOTE: a little bug namely make a move")
-local FirstLabel = FirstPage.AddLabel("KE X V3.0 --")
+local FirstLabel = FirstPage.AddLabel("KE X V3.2 --")
 local FirstButton = FirstPage.AddButton("Keyboard Script", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)  
