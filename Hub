@@ -1,0 +1,109 @@
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+
+local MainUI = UILibrary.Load("official script x V1")
+
+local FirstPage = MainUI.AddPage("Home")
+
+local FirstLabel = FirstPage.AddLabel("Welcome " .. game.Players.LocalPlayer.DisplayName)
+
+local FirstLabel = FirstPage.AddLabel("-- This script is made by official Dev✓#1265 --")
+
+local FirstLabel = FirstPage.AddLabel("-- thanks for using my script  --")
+
+local FirstLabel = FirstPage.AddLabel("-- Script : 8 --")
+
+local FirstLabel = FirstPage.AddLabel("-- use keyboard --")
+
+local FirstButton = FirstPage.AddButton("Keyboard Script", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+
+end)  
+
+local FirstPage = MainUI.AddPage("Script x")
+
+local FirstLabel = FirstPage.AddLabel("-- Auto piano --")
+
+local FirstButton = FirstPage.AddButton("Auto piano", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Madness676/3.2Lol/main/AutoPiano3-2.lua", true))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Icehub❄️ --")
+
+local FirstButton = FirstPage.AddButton("Brookhaven rp", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))() 
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Blox fruit --")
+
+local FirstButton = FirstPage.AddButton("Blox fruit", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/BLCK"))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Bedwars vape v4 --")
+
+local FirstButton = FirstPage.AddButton("Vape v4", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Doors --")
+
+local FirstButton = FirstPage.AddButton("Doors script", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/BlackKing/main/BlackKingMb"))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- My Restaruant --")
+
+local FirstButton = FirstPage.AddButton("My Restaruant", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LasagnaLINKS/LasagnaLinksHUB/main/Ifjdbzkwbxbekjdjeksncjwobckeknenskwbcorjcjjejdbb"))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Infinite yield --")
+
+local FirstButton = FirstPage.AddButton("Infinite yield", function()
+
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+end)  
+
+local FirstLabel = FirstPage.AddLabel("-- Kat script --")
+
+local FirstButton = FirstPage.AddButton("Kat script", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/KAT"))()
+
+end)  
+
+local FirstPage = MainUI.AddPage("Discord")
+
+local FirstLabel = FirstPage.AddLabel("-- JOIN DISCORD SERVER --")
+
+local FirstLabel = FirstPage.AddLabel("-- My disocrd --")
+
+local FirstLabel = FirstPage.AddLabel("-- https://discord.gg/frhzmrXW --")
+
+local FirstLabel = FirstPage.AddLabel("-- Script x👑 --")
+
+local FirstLabel = FirstPage.AddLabel("-- https://discord.gg/9ygVuuPAKP --")
+
+local FirstLabel = FirstPage.AddLabel("-- Friends --")
+
+local FirstLabel = FirstPage.AddLabel("-- https://discord.gg/Dm4DgbfN --")
+
+local FirstLabel = FirstPage.AddLabel("-- saiko --")
+
+local FirstLabel = FirstPage.AddLabel("-- https://discord.gg/YpfRSgFc --")
+
+local FirstLabel = FirstPage.AddLabel("-- that's all --")
